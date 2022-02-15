@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: datapset6qn6.dta
-type: OCWFile
 uid: ab78cf0e-27d0-a1cf-11c4-25e46edc29f5
 ---

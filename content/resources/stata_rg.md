@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: stata_rg.pdf
-type: OCWFile
 uid: 3547242f-b515-adc8-d06f-09bee38a77ca
 ---
