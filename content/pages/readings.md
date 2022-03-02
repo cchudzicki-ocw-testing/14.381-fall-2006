@@ -227,7 +227,7 @@ Greene. _Econometric Analysis._ Chapters 5, 6, 11, and 12.
 
 Newey, W. "Asymptotic Theory of Least Squares." 14.382 Lecture Notes, Spring 2000.
 
-Remarks on normality ({{< resource_link 91b8b1ed-28e4-8c97-db47-bcdcb8824a60 "PDF" >}})
+Remarks on normality ({{% resource_link 91b8b1ed-28e4-8c97-db47-bcdcb8824a60 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -263,4 +263,4 @@ Autocorrelation
 Additional Readings
 -------------------
 
-Appendices in Greene collect background material on matrices and large sample theory. See also the {{< resource_link 3ab369cc-0995-69f4-4c1d-2bacb52886ae "lecture notes" >}}.
+Appendices in Greene collect background material on matrices and large sample theory. See also the {{% resource_link 3ab369cc-0995-69f4-4c1d-2bacb52886ae "lecture notes" %}}.
