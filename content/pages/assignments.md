@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: ad119e6d-6cb5-8c67-4d0e-8dea760f080b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Problem sets were assigned approximately every two weeks. Problem sets 1-4 were part of Part I and Problems sets 4-7 were part of Part II.

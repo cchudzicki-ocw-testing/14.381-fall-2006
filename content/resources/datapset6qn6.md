@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: datapset6qn6.dta
 uid: ab78cf0e-27d0-a1cf-11c4-25e46edc29f5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

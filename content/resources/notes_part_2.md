@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: notes_part_2.pdf
 uid: ee6ed7d8-6623-2e60-4fb4-dfda14777e2d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

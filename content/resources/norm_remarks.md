@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: norm_remarks.pdf
 uid: 91b8b1ed-28e4-8c97-db47-bcdcb8824a60
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

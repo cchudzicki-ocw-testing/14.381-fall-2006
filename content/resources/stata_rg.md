@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: stata_rg.pdf
 uid: 3547242f-b515-adc8-d06f-09bee38a77ca
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

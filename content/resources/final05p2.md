@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: final05p2.pdf
 uid: e7a02214-9848-ef1d-6482-48de3e8e528c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

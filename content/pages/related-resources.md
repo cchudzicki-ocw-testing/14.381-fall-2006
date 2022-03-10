@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 8e351913-73d7-7977-e2c0-b5691c17ddc5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Measurability
