@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: ad119e6d-6cb5-8c67-4d0e-8dea760f080b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Problem sets were assigned approximately every two weeks. Problem sets 1-4 were part of Part I and Problems sets 4-7 were part of Part II.
@@ -147,7 +151,7 @@ Simple regression testing and welcome to STATA
 
 ### Problem 6
 
-datapset6qn6.txt ([TXT](/courses/economics/14-381-statistical-method-in-economics-fall-2006/assignments/datapset6qn6.txt))
+datapset6qn6.txt ({{% resource_link a278cfc9-d81f-74a0-1893-e4786271be60 "TXT" %}})
 
 datapset6qn6.dta ({{% resource_link ab78cf0e-27d0-a1cf-11c4-25e46edc29f5 "DTA" %}})
 

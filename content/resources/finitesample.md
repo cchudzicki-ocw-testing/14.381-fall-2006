@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: finitesample.pdf
 uid: 6f9323dd-afab-4b90-1fda-c98597e7c54b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
