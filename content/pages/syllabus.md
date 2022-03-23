@@ -72,7 +72,7 @@ Final exam
 
 For any use or distribution of these materials, please cite as follows:
 
-Victor Chernozhukov, course materials for 14.381 Statistical Method in Economics, Fall 2006. MIT OpenCourseWare (http://ocw.mit.edu/), Massachusetts Institute of Technology. Downloaded on \[DD Month YYYY\].
+Victor Chernozhukov, course materials for 14.381 Statistical Method in Economics, Fall 2006. MIT OpenCourseWare, Massachusetts Institute of Technology. Downloaded on \[DD Month YYYY\].
 
 ## Course Outline
 
