@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ad119e6d-6cb5-8c67-4d0e-8dea760f080b
 resourcetype: Other
 title: datapset6qn6.dta
 uid: ab78cf0e-27d0-a1cf-11c4-25e46edc29f5
