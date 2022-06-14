@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a problem set on assessing consistency, heteroscedasticity,
   small sample inference beyond normality, and a quick review of the course.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-381-statistical-method-in-economics-fall-2006/def2c6e35df5b71ab5c714b285e44c9c_ps7.pdf
+file: /courses/14-381-statistical-method-in-economics-fall-2006/def2c6e35df5b71ab5c714b285e44c9c_ps7.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains a problem set on assessing consistency, heteroscedasticity, small sample inference beyond normality, and a quick review of the course.

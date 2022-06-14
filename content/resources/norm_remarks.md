@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains a reading for the lecture on regression in large samples
   on where the normality of e comes from.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-381-statistical-method-in-economics-fall-2006/91b8b1ed28e48c97db47bcdcb8824a60_norm_remarks.pdf
+file: /courses/14-381-statistical-method-in-economics-fall-2006/91b8b1ed28e48c97db47bcdcb8824a60_norm_remarks.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file contains a reading for the lecture on regression in large samples on where the normality of e comes from.

@@ -4,7 +4,7 @@ description: This resource contains a problem set on deriving the OLS estimate f
   ?, interpreting regression coefficients, projection and residual matrices, partitioned
   regression, cubic spline approximation, Monte Carlo simulation, and an approximation
   exercise.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-381-statistical-method-in-economics-fall-2006/da6b2513f1b0b198bd0d8bc199a62098_ps5.pdf
+file: /courses/14-381-statistical-method-in-economics-fall-2006/da6b2513f1b0b198bd0d8bc199a62098_ps5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -20,3 +20,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains a problem set on deriving the OLS estimate for ?, interpreting regression coefficients, projection and residual matrices, partitioned regression, cubic spline approximation, Monte Carlo simulation, and an approximation exercise.

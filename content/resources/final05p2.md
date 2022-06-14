@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the Fall 2005 Part II Final Exam, provided as
   a practice exam for the course.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-381-statistical-method-in-economics-fall-2006/e7a022149848ef1d648248de3e8e528c_final05p2.pdf
+file: /courses/14-381-statistical-method-in-economics-fall-2006/e7a022149848ef1d648248de3e8e528c_final05p2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains the Fall 2005 Part II Final Exam, provided as a practice exam for the course.

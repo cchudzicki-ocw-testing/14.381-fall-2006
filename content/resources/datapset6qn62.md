@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains data for problem set 6.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-381-statistical-method-in-economics-fall-2006/a278cfc9d81f74a01893e4786271be60_datapset6qn6.txt
+file: /courses/14-381-statistical-method-in-economics-fall-2006/a278cfc9d81f74a01893e4786271be60_datapset6qn6.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains data for problem set 6.

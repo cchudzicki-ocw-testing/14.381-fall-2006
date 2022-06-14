@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides examples of finite sample inference beyond normality
   as a supplement to an assignment.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-381-statistical-method-in-economics-fall-2006/6f9323ddafab4b901fdac98597e7c54b_finitesample.pdf
+file: /courses/14-381-statistical-method-in-economics-fall-2006/6f9323ddafab4b901fdac98597e7c54b_finitesample.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource provides examples of finite sample inference beyond normality as a supplement to an assignment.
