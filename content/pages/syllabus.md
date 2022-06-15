@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about prerequisites, course requirements, texts, grading, recommended citation,
+  and the course outline.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
