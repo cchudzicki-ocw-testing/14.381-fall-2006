@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains related resources on measurability and an introduction
+  to R, a free statistics language.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
