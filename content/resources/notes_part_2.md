@@ -7,6 +7,7 @@ file: /courses/14-381-statistical-method-in-economics-fall-2006/ee6ed7d866232e60
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
